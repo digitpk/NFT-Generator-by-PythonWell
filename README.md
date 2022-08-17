@@ -22,13 +22,13 @@ Includes an extra focus for Fantom marketplaces e.g. PaintSwap. The source is wr
 
 ## How to use
 
-*Step 1. Download the .zip source code.
+Step 1. Download the .zip source code.
 
-*Step 2. Run "install.bat" to install required Python dependencies, or else the program will not work as intended.
+Step 2. Run "install.bat" to install required Python dependencies, or else the program will not work as intended.
 
-*Step 3. Configure settings in config.yaml.
+Step 3. Configure settings in config.yaml.
 
-*Step 4. Organise Layers in the art-engine directory.
+Step 4. Organise Layers in the art-engine directory.
 
 ### Organise Layers
 
