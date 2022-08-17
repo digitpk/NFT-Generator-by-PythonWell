@@ -1,6 +1,13 @@
 # NFT Generator & NFT Creator by PythonWell
 
+--- Python version of the popular C# program from the developer Discord server at https://discord.gg/qfvTFVz - join our Discord today!
+
 Python program focused on creating generative NFT collections based on layers of art. 
+[BETA - design & functionality might vary!]
+
+
+![NFT Generator](https://media.discordapp.net/attachments/923636185497239572/923644657756405791/NFT_Generator.gif)
+![NFT Creator]([[https://media.discordapp.net/attachments/923636185497239572/923644658507198564/NFT_Creator.png]
 
 ## Project Goals
 
