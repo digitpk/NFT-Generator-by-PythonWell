@@ -23,7 +23,7 @@ def make_dirs() -> None:
             print(f'Creating {_dir} directory')
             _dir.mkdir(exist_ok=True)
 
-    print('Build directories created')
+    print('Build directories created') 
 
 
 def join_layers(config_file: object) -> tuple:
