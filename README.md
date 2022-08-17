@@ -6,8 +6,7 @@ Python program focused on creating generative NFT collections based on layers of
 [BETA - design & functionality might vary!]
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/923636185497239572/923644657756405791/NFT_Generator.gif" width="350" title="NFT Generator">
-  <img src="https://media.discordapp.net/attachments/923636185497239572/923644658507198564/NFT_Creator.png" width="350" title="NFT Creator">
+  <img src="https://media.discordapp.net/attachments/923636185497239572/923644658507198564/NFT_Creator.png" width="750" title="NFT Creator">
 </p>
 
 ## Project Goals
