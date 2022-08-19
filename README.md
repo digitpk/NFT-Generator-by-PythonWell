@@ -12,7 +12,7 @@ Python program focused on creating generative NFT collections based on layers of
 ## Project Goals
 
 Making a platform-agnostic generative art program for programmers and non-programmers alike. 
-Includes an extra focus for Fantom marketplaces e.g. PaintSwap. The source is written in **Python** to make it easy and more accesible to contribute to.
+Includes an extra focus for Fantom marketplaces e.g. PaintSwap. The source is written in **Python** to make it easier and more accessible to contribute to.
 
 
 ## Dependencies
@@ -57,8 +57,7 @@ something like this:
             ├── Eyepatch
             └── Visor
 
-In the `config.yaml` file add your layer folder names, exactly as they appear in your assets folder. Place them in the order you wish to appear, e.g. Background, then Body, then Eye
-Accessory etc.
+In the `config.yaml` file add your layer folder names, exactly as they appear in your assets folder. Place them in the order you wish to appear, e.g. Background, then Body, then Eye, Accessory etc.
 
 ### Setting Rarities
 
@@ -74,7 +73,7 @@ For example, if you have two hats, you could set the rarities as `[60, 30, 10]`.
 
 ### Running The Program
 
-Inside of the `py-nft-generator` folder, open a terminal and run `python art-engine` and your
+Inside of the `NFT-Generator-by_PythonWell` folder, open a terminal and run `python art-engine` and your
 images and metadata will start being created :partying_face:
 
 ## Contributing
