@@ -37,5 +37,5 @@ layers:
     required: false
   - name: Eyes
     rarities: [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
-    required: true
+    required: false
 
