@@ -161,5 +161,5 @@ def run() -> None:
             harmonic_means = rr.calculate_mean(amount, edition)
             rr.add_rarity_rank(harmonic_means)
         except FileNotFoundError:
-            print("Cannot use paintswap metadata without rich_metadata!\n" 
+            print("Cannot use Paint_Swap metadata without rich_metadata!\n" 
             + "Please set it to true in the config file.")
