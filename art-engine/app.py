@@ -11,10 +11,10 @@ import utils.rarity_rank as rr
 
 
 def make_dirs() -> None:
-    """Creates the directories to store creates images and their corresponding json data.
+    """Creates the folders to store creates images and their corresponding json data.
     If the folders already exists, skips and continues.
     """
-    print('Creating build directories')
+    print('Creating build folders')
     build_dirs = ['build', 'build/images', 'build/json']
 
     for _dir in build_dirs:
